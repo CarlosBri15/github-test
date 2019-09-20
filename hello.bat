@@ -8,5 +8,4 @@ CLS
 ECHO ventana vaciada
 ECHO %time%
 ECHO %date%
-calendar
 pause
